@@ -1,4 +1,4 @@
-FROM python_webapp
+FROM quay.io/pixie79/python_webapp
 MAINTAINER pixie79
 
 CMD mkdir /app
